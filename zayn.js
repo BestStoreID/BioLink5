@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const userName = '@Zaynn Tech';
+  const userName = '𝐁𝐄𝐒𝐓 𝐒𝐓𝐎𝐑𝐄';
 
   const socialLinks = [
     { href: 'https://', icon: 'fa-solid fa-house', name: 'Website' },
