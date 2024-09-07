@@ -2,13 +2,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const userName = '𝐁𝐄𝐒𝐓 𝐒𝐓𝐎𝐑𝐄';
 
   const socialLinks = [
-    { href: 'https://', icon: 'fa-solid fa-house', name: 'Website' },
-    { href: 'https://github.com/', icon: 'fa-brands fa-github', name: 'GitHub' },
-    { href: 'https://twitter.com/', icon: 'fa-brands fa-twitter', name: 'Twitter' },
-    { href: 'https://linkedin.com/in/', icon: 'fa-brands fa-linkedin', name: 'LinkedIn' },
-    { href: 'https://instagram.com/', icon: 'fa-brands fa-instagram', name: 'Instagram' },
-    { href: 'https://facebook.com/', icon: 'fa-brands fa-facebook', name: 'Facebook' },
-    { href: 'https://youtube.com/', icon: 'fa-brands fa-youtube', name: 'YouTube' }
+    { href: "𝑮𝑪 𝑨𝑳𝑳𝑮𝑨𝑴𝑬", url: "https://chat.whatsapp.com/JAg3A1Kk5GhEPWzKlyPK5N", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { href: "𝑮𝑪 𝑩𝑳𝑶𝑿𝑭𝑹𝑼𝑰𝑻", url: "https://chat.whatsapp.com/F1Xslc8blZ1Cp3TyKListV", icon: "fa-whatsapp" }, // Tautan WhatsApp
   ];
 
   // Set the username in the header
